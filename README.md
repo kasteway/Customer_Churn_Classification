@@ -41,11 +41,11 @@ This bank customers churn dataset can be found at [Kaggle Bank Customer Churn da
 
 
 
-#### Algorithm & Tools
+### Algorithm & Tools
 
 
 
-## **TOOLS**
+#### **TOOLS**
 
 The following tools were used in this project:
 1.	Python & Pandas to: 
