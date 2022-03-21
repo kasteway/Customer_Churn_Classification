@@ -44,7 +44,8 @@ This bank customers churn dataset can be found at [Kaggle Bank Customer Churn da
 #### Algorithm & Tools
 
 
-Tools
+
+##**TOOLS**
 
 The following tools were used in this project:
 1.	Python & Pandas to: 
@@ -52,13 +53,10 @@ The following tools were used in this project:
                   •	      Feature Engineering 
                   
                   
-2.	SKLearn to implement various classification models and: 
-                    •	Data Balancing
-•	Cross Validation
-•	Regularization
+2.	SKLearn to implement various classification models 
 3.	Matplotlib and Seaborn to visualize the data and model outputs
 
-![image](https://user-images.githubusercontent.com/62068733/159379727-9b8aec4d-d068-4c6b-9a6f-bfb363f5548b.png)
+
 
 
 
