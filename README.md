@@ -43,16 +43,16 @@ This bank customers churn dataset can be found at [Kaggle Bank Customer Churn da
 
 ### Algorithm & Tools
 
-#### Measuring Mtric:
+####** Measuring Metric:**
 
 
-F2_Beta was used because it puts more attention on minimizing false negatives than minimizing false positives. 
+      F2_Beta was used because it puts more attention on minimizing false negatives than minimizing false positives. 
 
 
 
-#### Model Testing:
+#### **Model Testing:**
 
-The data was split using stratified train/test with 10 K-Folds. 
+     The data was split using stratified train/test with 10 K-Folds. 
 
 
 #### The Algorithms used for this analysis include:
@@ -70,7 +70,7 @@ The data was split using stratified train/test with 10 K-Folds.
 
 
 
-#### The top 5 model results:
+#### **The top 5 model results:**
 
 | Machine Learning Algorithm  | F_Beta 2 Score    |
 |-----------------------------|-------------------|
