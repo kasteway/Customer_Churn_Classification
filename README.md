@@ -25,10 +25,6 @@ Banking institutions often spend large amounts of budget to grow customers tenur
 ### Data
 
 
-The [College Scorecard data set](https://catalog.data.gov/dataset/college-scorecard), collected and made available by 
-the U.S. Department of Education, contains institution-level data for all accredited institutions in the United States offering undergraduate degrees. It contains institutional admissions and academics data, student loan and student earnings data. The data used for analysis in this project is from the most recent 2020-2021 school year.
-
-
 This bank customers churn dataset can be found at [Kaggle Bank Customer Churn data set](https://www.kaggle.com/mathchi/churn-for-bank-customers). It contains customers and their characteristics as well as if they churned. Each observation represents a unique customer and information such as age, gender, name, location, tenure, balance and many more. To access and view a detailed description of the dataset, [CLICK HERE](https://www.kaggle.com/mathchi/churn-for-bank-customers).
 
 
@@ -43,7 +39,8 @@ This bank customers churn dataset can be found at [Kaggle Bank Customer Churn da
 
 ### Algorithm & Tools
 
-####** Measuring Metric:**
+
+#### **Measuring Metric:**
 
 
       F2_Beta was used because it puts more attention on minimizing false negatives than minimizing false positives. 
