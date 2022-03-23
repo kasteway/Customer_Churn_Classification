@@ -45,7 +45,8 @@ This bank customers churn dataset can be found at [Kaggle Bank Customer Churn da
 
 #### Measuring Mtric:
 
-F2_Beta because it puts more attention on minimizing false negatives than minimizing false positives. 
+
+F2_Beta was used because it puts more attention on minimizing false negatives than minimizing false positives. 
 
 
 
