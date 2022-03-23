@@ -43,6 +43,43 @@ This bank customers churn dataset can be found at [Kaggle Bank Customer Churn da
 
 ### Algorithm & Tools
 
+#### Measuring Mtric:
+
+F2_Beta because it puts more attention on minimizing false negatives than minimizing false positives. 
+
+
+
+#### Model Testing:
+
+The data was split using stratified train/test with 10 K-Folds. 
+
+
+#### The Algorithms used for this analysis include:
+- XGB 
+- AdaBoost 
+- RandomForest 
+- ExtraTrees 
+- Bagging 
+- DecisionTree 
+- LogisticRegressionCV
+- KNeighbors 
+- SVC
+- Bernoulli
+- Gaussian
+
+
+
+#### The top 5 model results:
+
+| Machine Learning Algorithm  | F_Beta 2 Score    |
+|-----------------------------|-------------------|
+| XGB                         | 52.09155          |
+| Decision Tree               | 49.85373          |
+| Gradient Boosting           | 49.75858          |
+| Random Forest               | 49.01696          |
+| AdaBoost                    | 48.94638          |
+
+
 
 
 #### **TOOLS**
