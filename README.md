@@ -25,7 +25,7 @@ Banking institutions often spend large amounts of budget to grow customers tenur
 ### Data
 
 
-This bank customers churn dataset can be found at [Kaggle Bank Customer Churn data set](https://www.kaggle.com/mathchi/churn-for-bank-customers). It contains customers and their characteristics as well as if they churned. Each observation represents a unique customer and information such as age, gender, name, location, tenure, balance and many more. To access and view a detailed description of the dataset, [CLICK HERE](https://www.kaggle.com/mathchi/churn-for-bank-customers).
+This bank customers churn dataset can be found at [Kaggle Bank Customer Churn data set](https://www.kaggle.com/mathchi/churn-for-bank-customers). It contains customers and their characteristics as well as if they churned. Each observation represents a unique customer and information such as age, gender, name, location, tenure, balance and many more. To access and view a detailed description of the dataset, [CLICK HERE](https://www.kaggle.com/mathchi/churn-for-bank-customers)
 
 
 #### Data Download From Kaggle [CSV Data](https://www.kaggle.com/mathchi/churn-for-bank-customers)
