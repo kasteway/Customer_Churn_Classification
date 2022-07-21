@@ -12,7 +12,7 @@ The goal of this project is to build a classification machine learning model to 
 
 
 
-### Design
+### Design:
 
 
 Banking institutions often spend large amounts of budget to grow customers tenure because the cost of gaining a new customer is often more expensive. Therefore, they implement customer retention strategies to increase market share to increase revenue. The need for new customers is as important as keeping existing customers. The data science solutions implemented in this machine learning classification model will enhance the banks customer base. ![image]
