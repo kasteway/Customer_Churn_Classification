@@ -2,7 +2,7 @@
 
 
 
-### Abstract
+### Abstract:
 
 
 The goal of this project is to build a classification machine learning model to predict a bank’s customer churn. The term ‘churn’ in this analysis is to see if customers are likely to leave from a bank. The model will give banking institutions an understanding of their customers traits and behaviors allowing them to take measures to improve customer retention or gain new customers. 
