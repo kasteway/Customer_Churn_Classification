@@ -88,7 +88,7 @@ The following tools were used in this project:
                   •	      Feature Engineering 
                   
                   
-2.	SKLearn to implement various classification models.
+2.	SKLearn to implement various classification models
 3.	Matplotlib and Seaborn to visualize the data and model outputs.
 
 
