@@ -49,7 +49,7 @@ This bank customers churn dataset can be found at [Kaggle Bank Customer Churn da
 
 #### **Model Testing:**
 
-     The data was split using stratified train/test with 10 K-Folds. 
+     The data was split using stratified train/test with 10 K-Folds...
 
 
 #### The Algorithms used for this analysis include:
